@@ -4,6 +4,7 @@
 An interactive Streamlit app that fetches and visualizes global earthquake data using the USGS API. Allows users to select a date range and view earthquakes with details like magnitude, location, coordinates, and time. You can also export the data to CSV or styled Excel formats.
 
 ---
+GOTO: [DENO](http://localhost:8501/)
 
 ## 🚀 Features
 
